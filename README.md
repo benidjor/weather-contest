@@ -9,7 +9,7 @@
 
 ### 스킬셋
 - `Python`, `numpy`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`
-- `Jira`, `Notion`, `Google SpreadSheet`, `Discord`
+- `GitHub`, `Jira`, `Notion`, `Google SpreadSheet`, `Discord`
 <br>
 
 ## 연구 가설 및 분석 전략
