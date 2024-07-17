@@ -11,9 +11,6 @@
 ### 스킬셋
 - `Python`, `numpy`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`
 - `GitHub`, `Jira`, `Notion`, `Google SpreadSheet`, `Discord`
-
-### 머신러닝 모델링 플로우 차트
-![모델링 플로우 차트](https://i.imgur.com/eGKHxHF.png)
 <br>
 
 ## 연구 가설 및 분석 전략
@@ -40,6 +37,9 @@
     - 기온-지면 온도 차
     
 #### 3. Modeling
+- 머신러닝 모델링 플로우 차트
+![모델링 플로우 차트](https://i.imgur.com/eGKHxHF.png)
+
 - 이진 분류 모델과 다중 분류 모델을 혼합한 **Ensemble 모델** 개발
     - **각 지역**에 대해 `Random Forest Classifier` 모델 생성
         1. 선행 모델은 안개 발생 여부를 예측하는 **이진 분류** 수행
